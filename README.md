@@ -1,6 +1,6 @@
 # improved-diffusion
 
-This is the codebase for [Improved Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2102.09672).
+This is the cloned codebase for [Improved Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2102.09672) that I'm using for medical images.
 
 # Usage
 
